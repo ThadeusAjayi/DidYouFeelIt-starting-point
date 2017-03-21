@@ -25,7 +25,7 @@ import android.widget.TextView;
  * felt the earthquake.
  */
 public class MainActivity extends AppCompatActivity {
-
+// Git Hub Test
     /** URL for earthquake data from the USGS dataset */
     private static final String USGS_REQUEST_URL =
             "http://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2016-01-01&endtime=2016-05-02&minfelt=50&minmagnitude=5";
